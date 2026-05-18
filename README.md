@@ -1,0 +1,1 @@
+A full-stack Event Management System built using PHP, MySQL, Bootstrap, HTML, CSS, and JavaScript. This project allows users to browse and book events online while providing an admin dashboard to manage events, bookings, and revenue.
